@@ -1,0 +1,4 @@
+Avefablo	2350	AI(easy)	Win
+Anton	2000	AI(hard)	Win
+Antoshka	2000	AI(hard)	Win
+mole	0	NetPlayer	Connection lost
